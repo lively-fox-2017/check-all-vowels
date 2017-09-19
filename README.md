@@ -1,3 +1,3 @@
 # check-all-vowels
 
-https://docs.google.com/a/hacktiv8.com/document/d/1iW3ErGUJSQWEK9w6M3TX2KEOpxo2m_DNaLcJSY0YCbU/edit?usp=sharing
+https://docs.google.com/document/d/1JpSJ5-hq0CsIiIr-VXupW9crRjLLZs8ccNpiUPB7aV0/edit?usp=sharing
