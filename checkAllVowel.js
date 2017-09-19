@@ -16,3 +16,19 @@ function cekVowels(str){
 }
 
 console.log(cekVowels('nIzar'));
+
+function StringMatriks(str){
+
+	let temp1=str.split(',');
+
+	let temp2=[];
+
+	for(let i=0;i<temp1.length;i++){
+		temp2[i]=temp1[i].split('');
+	}
+
+	return temp2;
+
+}
+
+console.log(StringMatriks('aqrst,ukaei,ffooo'))
