@@ -10,6 +10,5 @@ let checkAllVowels = (str) => {
 
 
 console.log(checkAllVowels('aaaaaaaaaaaaiiiiiiiiiiiiiiiisuuuuuuuuuuuuueeeeeeeeooooooo'));
-console.log(checkAllVowels('aaaa'));
 console.log(checkAllVowels('aaaaaaaaaaaaas'));
 console.log(checkAllVowels('siiiiiiiiiii'));
