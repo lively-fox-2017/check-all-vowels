@@ -2,7 +2,7 @@
 function checkVowels(str){
 	let vowels = ["a", "i", "u", "e", "o"];
 	for(var i=0;i<=str.length-1;i++){
-		if(vowels.indexOf(str[i]) === -1){
+		if(vowels.indexOf(str[i].toLowerCase()) === -1){
 			return false;
 		}
 	}
