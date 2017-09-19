@@ -6,7 +6,7 @@ function cekVowels(str){
 
 	for(let i=0;i<temp.length;i++){
 		for(let j=0;j<lib.length;j++){
-			if(temp[i]==lib[j]){
+			if(temp[i]==lib[j] || temp[i]==lib[j].toUpperCase()){
 				return true
 			}
 		}
@@ -15,4 +15,4 @@ function cekVowels(str){
 	return false
 }
 
-console.log(cekVowels('nizar'));
+console.log(cekVowels('nIzar'));
