@@ -12,4 +12,5 @@ function checkAllVowel(arr){
     return true;
 }
 
-console.log(checkAllVowel('aaAAaba'));
+console.log(checkAllVowel('aaAAaba')); // false
+console.log(checkAllVowel('aaIIIIiiuEEo')); // true
